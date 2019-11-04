@@ -1,0 +1,7 @@
+.snackbar-container {
+  display: flex;
+  position: fixed;
+  justify-content: center;
+  top: 0;
+  width: 100%;
+}
